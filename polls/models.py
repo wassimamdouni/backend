@@ -10,7 +10,6 @@ from datetime import datetime, timedelta
 import os
 
 from phonenumber_field.modelfields import PhoneNumberField
-import phonenumbers
 
 def filepath(request, filename):
     old_filename = filename
