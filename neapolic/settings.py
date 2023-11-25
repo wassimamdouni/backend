@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'polls.apps.PollsConfig',
     'rest_framework',
     "corsheaders",
+    "phonenumber_field",
 ]
 
 MIDDLEWARE = [
