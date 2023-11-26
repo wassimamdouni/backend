@@ -16,7 +16,7 @@ python -m pip install Pillow
 pip install django-storages
 pip install psycopg2-binary
 ```
-# -----------------Or-----------------
+## -----------------Or-----------------
 ```
 pip install -r requirements.txt
 ```
